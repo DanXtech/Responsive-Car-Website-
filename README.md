@@ -1,5 +1,3 @@
-# 🚘 Responsive Car website
-## [Watch it on youtube](https://youtu.be/bDngcOQ8Img)
 ### 🚘 Responsive Car website
 
 - Responsive Car website Using HTML CSS & JavaScript
@@ -11,3 +9,5 @@
 💙 Love this website 
 
 ![preview img](/preview.png)
+<p>View Life</p>
+https://danxtech.github.io/Responsive-Car-Website-/
